@@ -1,0 +1,3 @@
+line 1: 70
+line 2: 70
+total nucs: 140

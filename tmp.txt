@@ -1,0 +1,10 @@
+c63_g1_i1	GC content: 0.37	A:337	C:194	G:189	T:312
+
+c64_g1_i1	GC content: 0.40	A:739	C:394	G:484	T:580
+
+c65_g1_i1	GC content: 0.38	A:310	C:247	G:208	T:429
+
+c66_g1_i1	GC content: 0.34	A:68	C:56	G:30	T:86
+
+c66_g2_i1	GC content: 0.40	A:567	C:379	G:368	T:553
+
